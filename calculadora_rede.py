@@ -1,7 +1,5 @@
 # Programa de cálculo de rede, broadcast e faixa de endereços válidos
 # Linguagem: Python 3
-# Autor: Equipe de redes
-# Plataforma Web opcional: não aplicável
 
 import ipaddress
 
