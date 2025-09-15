@@ -20,7 +20,6 @@ Este trabalho tem como objetivo desenvolver um programa em Python que, dado um *
 
 * `calculadora_rede.py`: arquivo principal com o código Python.
 * `README.md`: este arquivo, explicando o projeto e os testes.
-* `casos_de_teste.txt` (opcional): lista de entradas e saídas usadas para teste.
 
 ---
 
